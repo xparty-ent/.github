@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://x-party.it">
-    <img alt="#x-party" src="https://i.imgur.com/bXpibvh.png" height="100">
+    <img alt="#x-party" src="https://i.imgur.com/bXpibvh.png" width="100%">
   </a>
 </p>
 <p align="center">
