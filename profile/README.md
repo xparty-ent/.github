@@ -20,8 +20,8 @@
 	<img alt="GitHub Org's followers" src="https://img.shields.io/github/followers/xparty-ent?style=flat-square&labelColor=%23000000&color=%2301cdfe">
 </p>
 <p align="center">
-	<img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/xparty-ent/wordpress/deploy.yml?style=flat-square&label=wordpress">
-	<img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/xparty-ent/wordpress-theme/deploy.yml?style=flat-square&label=wordpress-theme">
+	<img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/xparty-ent/bedrock/deploy.yml?style=flat-square&label=bedrock">
+	<img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/xparty-ent/sage/deploy.yml?style=flat-square&label=sage">
 </p>
 
 <h2>Introduction</h2>
